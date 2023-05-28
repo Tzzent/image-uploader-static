@@ -26,20 +26,15 @@ You can also delete the image.
 
 🖥️ Desktop <br>
 
-![Desktop1](https://github.com/Tzzent/unsplash-react-app/assets/86677547/e2aec606-7c87-482d-a4a2-665c4ab12d0a)
-![Desktop2](https://github.com/Tzzent/unsplash-react-app/assets/86677547/0aac2f8c-4a56-4664-aa74-504955a86261)
+![Desktop1](https://github.com/Tzzent/image-uploader-static/assets/86677547/f05fb75e-ea34-438c-964e-ed9c44b79fe4)
+![Dektop3](https://github.com/Tzzent/image-uploader-static/assets/86677547/2a7cea2d-b99d-490e-b7cd-2055bfd6a7e4)
+![Dektop2](https://github.com/Tzzent/image-uploader-static/assets/86677547/a7a58d72-40ff-40a4-a074-b5be4a62c31b)
 
 <br>
 📲 Mobile <br><br>
 
 <div style="display: flex; justify-content: center;" align="center">
-  
-  <img src="https://github.com/Tzzent/unsplash-react-app/assets/86677547/bdeb4980-a214-4828-955b-e4f009a32428" alt="Mobile-FM" width="300">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Tzzent/unsplash-react-app/assets/86677547/670f4935-29eb-4de8-9e44-9e9b6318d492" alt="Mobile-FM2" width="300">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Tzzent/unsplash-react-app/assets/86677547/c97c364c-3674-4db8-8689-a09ca9947754" alt="Mobile-FM2" width="300">
-
+  <img src="https://github.com/Tzzent/image-uploader-static/assets/86677547/8091cce4-fd03-4e7d-bb22-d701f0bd6422" alt="Mobile-FM" width="300">
 </div>
 
 ## Contact 🗣️
