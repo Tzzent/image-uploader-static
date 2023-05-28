@@ -1,0 +1,127 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  transition: all ease-in-out 0.2s;
+}
+
+.App {
+  height: 100vh;
+  position: relative;
+}
+
+/* SwitchMode */
+
+.btn__switchMode {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.circle {
+  background-color: red;
+  width: 40px;
+  height: 40px;
+}
+
+.nav-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1em 2em 0 2em;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  gap: 3em;
+}
+
+.active {
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+.container-home {
+  height: calc(100vh - 5em);
+  display: flex;
+}
+
+.content-home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 400px;
+  margin: auto;
+}
+
+.main {
+  height: 100vh;
+  padding: 5em 2em 0 2em;
+}
+
+/* From here below, the styles of the gallery */
+
+@media screen and (max-width: 5500px) {
+  .gallery {
+    columns: 4;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .gallery {
+    columns: 3;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .gallery {
+    columns: 2;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  .gallery {
+    columns: 1;
+  }
+}
+
+.notification {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: rgb(25, 129, 193);
+  max-width: fit-content;
+  padding: 1em;
+  color: white;
+  border-radius: 12px;
+  box-shadow: 0px 7px 29px 0px rgba(100, 100, 111, 0.7);
+  margin: auto;
+}
+
+.card-img:hover {
+  scale: 1.05;
+}
+
+.visible {
+  opacity: 1;
+  display: block;
+}
+
+.hidden {
+  opacity: 0;
+  display: none;
+}
